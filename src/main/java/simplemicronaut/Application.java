@@ -1,4 +1,4 @@
-package MicronautTry;
+package simplemicronaut;
 
 import io.micronaut.runtime.Micronaut;
 
